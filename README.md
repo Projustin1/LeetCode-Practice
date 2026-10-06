@@ -32,4 +32,5 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Projustin1/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Projustin1/LeetCode-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
