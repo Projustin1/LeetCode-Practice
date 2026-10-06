@@ -37,6 +37,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 | [0009-palindrome-number](https://github.com/Projustin1/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Projustin1/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Projustin1/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Projustin1/LeetCode-Practice/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Projustin1/LeetCode-Practice/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Projustin1/LeetCode-Practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Projustin1/LeetCode-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
