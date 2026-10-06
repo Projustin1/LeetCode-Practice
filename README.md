@@ -17,3 +17,15 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 │   ├── Trees/
 │   └── Graphs/
 └── Python/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Projustin1/LeetCode-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Projustin1/LeetCode-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
