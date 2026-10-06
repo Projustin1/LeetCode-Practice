@@ -36,8 +36,17 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 | [0007-reverse-integer](https://github.com/Projustin1/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Projustin1/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Projustin1/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Projustin1/LeetCode-Practice/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Projustin1/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Projustin1/LeetCode-Practice/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Projustin1/LeetCode-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
