@@ -6,7 +6,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 
 ### 🛠️ Languages Used
 - **C++** (Primary)
-- **Python**
+
 
 ---
 
