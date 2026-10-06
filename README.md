@@ -68,4 +68,20 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Projustin1/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Projustin1/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
