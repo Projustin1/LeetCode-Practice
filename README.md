@@ -38,6 +38,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 | [0066-plus-one](https://github.com/Projustin1/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Projustin1/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Projustin1/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Projustin1/LeetCode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Projustin1/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Projustin1/LeetCode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
