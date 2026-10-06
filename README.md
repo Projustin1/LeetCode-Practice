@@ -27,6 +27,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Projustin1/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Projustin1/LeetCode-Practice/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/Projustin1/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Projustin1/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 | [0231-power-of-two](https://github.com/Projustin1/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Projustin1/LeetCode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Projustin1/LeetCode-Practice/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Projustin1/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
