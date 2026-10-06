@@ -26,6 +26,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 | [0001-two-sum](https://github.com/Projustin1/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Projustin1/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Projustin1/LeetCode-Practice/tree/master/0066-plus-one) |
+| [1480-running-sum-of-1d-array](https://github.com/Projustin1/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Projustin1/LeetCode-Practice/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Projustin1/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
