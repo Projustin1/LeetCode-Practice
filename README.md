@@ -25,6 +25,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 | ------- |
 | [0001-two-sum](https://github.com/Projustin1/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Projustin1/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Projustin1/LeetCode-Practice/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A repository tracking my daily progress solving Data Structures and Algorithms p
 | ------- |
 | [0007-reverse-integer](https://github.com/Projustin1/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Projustin1/LeetCode-Practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Projustin1/LeetCode-Practice/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
